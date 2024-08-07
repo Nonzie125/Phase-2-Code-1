@@ -1,3 +1,13 @@
+import React from 'react';
+
+interface Props {
+}
+
+const AddTransactionForm.js = (props: Props) => {
+    return null;
+};
+
+export default AddTransactionForm.js;
 import React, {useState} from "react";
 
 function AddTransactionForm({ onAddItem}) {
